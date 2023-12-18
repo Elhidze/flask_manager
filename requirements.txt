@@ -1,0 +1,9 @@
+flask~=3.0.0
+alembic~=1.13.0
+SQLAlchemy~=2.0.23
+flask_sqlalchemy~=3.0.0
+flask_migrate
+datetime
+Flask-WTF
+wtforms
+flask_login
